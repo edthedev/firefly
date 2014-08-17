@@ -1,0 +1,12 @@
+These numbers were chosen arbitrarily. They are constructed such that a search program seeking non-delimited social security numbers should detect this file. This file is intended only for testing such software tools. The numbers below may or may not actually be in use.
+
+The prefixes ‘318’ and ‘361’ are the lowest and highest prefix used in Illinois. The rest of the numbers are simply counting upwards from ‘123456’.
+
+318123456
+318123457
+318123458
+318123459
+361123456
+361123457
+361123458
+361123459

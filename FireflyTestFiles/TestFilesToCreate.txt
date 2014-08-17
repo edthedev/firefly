@@ -1,0 +1,14 @@
+Core: 
+List of undelimited SSNs
+* Word Documents (DOC)
+* Word 2007 Documents (DOCX)
+* Word document within Zip Archive
+* Text file within BZIP archive
+* Excel (XLS)
+* Access Database (MDB)
+* Portable Document Format (PDF)
+    
+Variants:
+List of delimited SSNs
+List of phone numbers
+List of UINs
