@@ -1,4 +1,4 @@
-firefly
+Firefly
 =======
 
 Firefly is a fork from  Cornell Spider created at UIUC for the Illinois Social Security Number remediation project.
